@@ -17,26 +17,20 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://fb.com/AnimeGX"
     - icon: fa-twitter
-      link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "#"
+      link: "https://twitter.com/GX_SyL"
 
 share:
   twitter_username: github.io
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
+    - text: Acerca de
       url: /about/
-    - text: My Projects
+    - text: Proyectos
       url: /projects/
-    - text: XML Feed
+    - text: RSS
       url: /feed.xml
 
 url: "http://rpgx.animegx.com"
