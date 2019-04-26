@@ -34,7 +34,7 @@ urls:
       url: /feed.xml
 
 url: "http://rpgx.animegx.com"
-baseurl: "rpgx.anime-gx.com"
+baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
