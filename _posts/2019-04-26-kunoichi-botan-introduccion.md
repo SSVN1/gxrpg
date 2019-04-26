@@ -16,12 +16,3 @@ Su maestra no había regresado de su misión, quizás había sido capturada.
 
 Sabiendo que todavía le faltan las habilidades y la experiencia, Botan debe asumir la misión de rescatar a su maestra, pero... ¿podrá cumplir tal misión? Una que ni su maestra no pudo cumplir.
 
-## Datos generales
-
-**Desarrollador**:
-
-**Editor (Inglés)**:
-
-**Tipo**:
-
-**Año:**
