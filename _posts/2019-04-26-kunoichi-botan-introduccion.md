@@ -19,4 +19,9 @@ Sabiendo que todavía le faltan las habilidades y la experiencia, Botan debe asu
 ## Datos generales
 
 **Desarrollador**:
+
 **Editor (Inglés)**:
+
+**Tipo**:
+
+**Año:**
