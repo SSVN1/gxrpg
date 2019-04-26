@@ -33,7 +33,7 @@ urls:
     - text: RSS
       url: /feed.xml
     - text: Contacto
-      mailto:greg@anime-gx.com
+      url: /mailto:greg@anime-gx.com
 
 url: "http://rpgx.animegx.com"
 baseurl: ""
