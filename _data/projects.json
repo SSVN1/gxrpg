@@ -1,7 +1,7 @@
 [
 	{
 		"slug": "Los sextravagantes remedios de Myelta",
-		"name": "Myelta",
+		"name": "Los sextravagantes remedios de Myelta",
 		"image": "myelta.jpg",
 		"url": "#",
 		"date": "2019",
@@ -14,30 +14,5 @@
 		"url": "#",
 		"date": "TBA",
 		"tags": ["RPG"]
-	},
-	{
-		"name": "Cool project 3",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","Django"]
-	},
-	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
-	},
-	{
-		"name": "Cool project 5",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
-	},
-	{
-		"name": "Cool project 6",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
 	}
 ]
