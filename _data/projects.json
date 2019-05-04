@@ -1,18 +1,19 @@
 [
 	{
+		"slug": "Los sextravagantes remedios de Myelta",
+		"name": "Myelta",
+		"image": "myelta.jpg",
+		"url": "#",
+		"date": "2019",
+		"tags": ["RPG"]
+	},
+	{
 		"slug": "Kunoichi Botan",
 		"name": "Kunoichi Botan",
 		"image": "botan.jpg",
 		"url": "#",
 		"date": "TBA",
 		"tags": ["RPG"]
-	},
-	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["Python","Django"]
 	},
 	{
 		"name": "Cool project 3",
