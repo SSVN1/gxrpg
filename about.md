@@ -1,9 +1,9 @@
----
+﻿---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+GX traduciendo jueguitos porno y no porno. Aclarando, los juegos se consiguen en Steam o DLSite, aquí solo se alojan traducciones/mods.
 
-email: agus[at]python.web.id
+e-mail: greg@anime-gx.com
